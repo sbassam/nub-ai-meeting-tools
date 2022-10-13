@@ -7,7 +7,8 @@ from nltk.tokenize import sent_tokenize
 import io
 from utils import get_generated_text, extract_graph_elements
 import copy
-
+import nltk
+nltk.download('punkt')
 st.title("Meeting Knowledge Graph Generator")
 
 input_file = st.file_uploader(label="Upload meeting transcript txt file")
