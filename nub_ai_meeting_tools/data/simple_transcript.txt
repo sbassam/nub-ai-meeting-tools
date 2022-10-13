@@ -1,0 +1,18 @@
+[John]: I will finish up task number 5146 by the end up this sprint.
+
+[Anna]: We have to set up a meeting to go over the details of the demo project today.
+
+[Anwar]: I'm thinking maybe we should make an infographic before the board meeting.
+
+[Anna]: Sounds good I was planning to make an infographic today Let's meet.
+
+[Anwar]: I also need to finish task number 5146. Has anyone heard back about the swags yet? We need to check on that.
+
+[Anna]: I can send an email right after the meeting.
+
+[John]: Thanks Anna If you need help I'm happy to set up a meeting to go over the details of the demo project today.
+
+[Kathleen]: I want to put up a story to create onboarding documents for interns by the next social hour on Friday.
+
+[Brendan]: That's a great idea, I can help create onboarding documents.
+
